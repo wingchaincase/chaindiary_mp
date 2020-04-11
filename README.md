@@ -7,13 +7,13 @@
 	    * [编译生产环境](#编译生产环境)
  * [English](#English)
 	* [configure](#configure)
-    * [Project setup](#Project setup)
-	    * [Compiles and hot-reloads for development](#Compiles and hot-reloads for development)
-	    * [Compiles and minifies for production](#Compiles and minifies for production)
+    * [Project-setup](#Project-setup)
+	    * [Compiles-and-hot-reloads-for-development](#Compiles-and-hot-reloads-for-development)
+	    * [Compiles-and-minifies-for-production](#Compiles-and-minifies-for-production)
 
 ## 中文
 
-链记API
+链记小程序
 
 链记小程序安装：
 
@@ -42,7 +42,7 @@ npm run build:mp-weixin
 
 ## English
 
-Chain diary API
+Chain diary mini program
 
 Install chain diary mini program：
 
